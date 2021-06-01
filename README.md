@@ -43,3 +43,7 @@ Nous allons dans un premier temps nous pencher sur la fusion des étapes 3-4-5 e
 ---
 
 # Gestion du projet
+
+### Git
+
+Il y a 2 branches principales : master (contient la version stables en cours) et dev (contient la version en développement). Partant de dev, il y a les branches docu, test et source pour changer certaines parties du projet.
